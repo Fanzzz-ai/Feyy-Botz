@@ -3,9 +3,9 @@
 
  - BASE ORI FAUZIDEV
  - ORI SCRIPT BY FAUZIDEV
-
+ - Di Tulis Ulang Oleh
+ - VynaaChan
 */
-
 console.log('Memulai...')
 
 import yargs from 'yargs'
