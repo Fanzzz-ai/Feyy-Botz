@@ -1,7 +1,7 @@
 {
-  "name": "Rarabot",
+  "name": "CamdaiAi",
   "version": "1.0.0",
-  "description": "Rarabot simple bot",
+  "description": "CamdaiAi simple bot",
   "main": "start.js",
   "type": "module",
   "directories": {
