@@ -1,7 +1,7 @@
 {
-  "name": "CamdaiAi",
+  "name": "CandaiAi",
   "version": "1.0.0",
-  "description": "CamdaiAi simple bot",
+  "description": "CandaiAi simple bot",
   "main": "start.js",
   "type": "module",
   "directories": {
